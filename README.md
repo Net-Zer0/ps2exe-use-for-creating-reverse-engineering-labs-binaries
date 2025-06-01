@@ -44,4 +44,5 @@ https://binary.ninja/
    - Assess execution flow differences introduced in conversion.
 
 ---
-
+In the examples provided strings will show the execution chain!
+![Code in Strings](code-in-strings.png)
