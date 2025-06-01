@@ -23,6 +23,8 @@ Additionally, this project includes **binary analysis** using **Binary Ninja**, 
    ```
 
 ### Binary Ninja Analysis
+https://binary.ninja/
+
 1. **Open the Compiled Executable**  
    - Load `shutdown.exe` into **Binary Ninja** for analysis.
 
