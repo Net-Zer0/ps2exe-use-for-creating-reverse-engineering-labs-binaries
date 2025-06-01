@@ -1,6 +1,3 @@
-Here's your updated **README.md** with the **Binary Ninja analysis section** incorporated into the **Overview**:
-
-
 # PS2EXE - PowerShell to Executable Conversion
 
 ## Overview
@@ -46,3 +43,8 @@ https://binary.ninja/
 ---
 In the examples provided strings will show the execution chain!
 ![Code in Strings](code-in-strings.png)
+---
+Disclaimer
+This project is intended solely for educational and research purposes in a controlled environment. Misuse of executable conversion techniques for unauthorized access, obfuscation, or malicious activities is strictly prohibited. Users are expected to adhere to ethical cybersecurity practices and comply with all applicable laws and regulations.
+When working with executable files, always validate scripts before execution, use virtualized testing environments, and ensure full transparency in research documentation.
+---
